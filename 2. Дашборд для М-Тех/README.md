@@ -1,4 +1,4 @@
-
+Для тестирования работы дашборда можно использовать приложенный файл data_prepaired.csv
 
 Команда для создания Docker-образа: docker build -t my_streamlit_app . 
 
